@@ -1,0 +1,277 @@
+date,home_team,away_team,home_score,away_score
+29-07-2023,Austria Klagenfurt,Swarovski Watt,3,1
+09-08-2023,Austria Klagenfurt,Wolfsberger AC,2,2
+12-08-2023,Austria Klagenfurt,SK Sturm Graz,0,0
+19-08-2023,Austria Klagenfurt,SCR Altach,1,1
+27-08-2023,Austria Klagenfurt,Hartberg,3,0
+03-09-2023,Austria Klagenfurt,FK Austria Vienna,2,2
+16-09-2023,Austria Klagenfurt,LASK Linz,1,3
+23-09-2023,Austria Klagenfurt,Austria Lustenau,1,0
+30-09-2023,Austria Klagenfurt,FC BW Linz,0,0
+08-10-2023,Austria Klagenfurt,FC Salzburg,2,2
+22-10-2023,Austria Klagenfurt,Rapid Vienna,3,2
+28-10-2023,Austria Klagenfurt,Swarovski Watt,1,0
+04-11-2023,Austria Klagenfurt,Wolfsberger AC,0,4
+12-11-2023,Austria Klagenfurt,SK Sturm Graz,0,3
+26-11-2023,Austria Klagenfurt,SCR Altach,1,0
+04-12-2023,Austria Klagenfurt,Hartberg,1,1
+09-12-2023,Austria Klagenfurt,FK Austria Vienna,2,2
+11-02-2024,Austria Klagenfurt,LASK Linz,2,2
+18-02-2024,Austria Klagenfurt,Austria Lustenau,1,0
+25-02-2024,Austria Klagenfurt,FC BW Linz,2,0
+03-03-2024,Austria Klagenfurt,FC Salzburg,0,1
+10-03-2024,Austria Klagenfurt,Rapid Vienna,1,1
+17-03-2024,Austria Klagenfurt,SK Sturm Graz,0,4
+29-07-2023,Austria Lustenau,Hartberg,2,2
+06-08-2023,Austria Lustenau,FK Austria Vienna,0,2
+12-08-2023,Austria Lustenau,Wolfsberger AC,1,1
+19-08-2023,Austria Lustenau,SK Sturm Graz,0,1
+26-08-2023,Austria Lustenau,SCR Altach,0,3
+03-09-2023,Austria Lustenau,LASK Linz,0,2
+17-09-2023,Austria Lustenau,Swarovski Watt,2,3
+23-09-2023,Austria Lustenau,Austria Klagenfurt,0,1
+30-09-2023,Austria Lustenau,FC Salzburg,0,4
+07-10-2023,Austria Lustenau,Rapid Vienna,0,5
+21-10-2023,Austria Lustenau,FC BW Linz,0,0
+29-10-2023,Austria Lustenau,Hartberg,0,4
+04-11-2023,Austria Lustenau,FK Austria Vienna,0,1
+11-11-2023,Austria Lustenau,Wolfsberger AC,2,3
+25-11-2023,Austria Lustenau,SK Sturm Graz,0,2
+05-12-2023,Austria Lustenau,SCR Altach,0,3
+09-12-2023,Austria Lustenau,LASK Linz,1,3
+11-02-2024,Austria Lustenau,Swarovski Watt,2,0
+18-02-2024,Austria Lustenau,Austria Klagenfurt,0,1
+24-02-2024,Austria Lustenau,FC Salzburg,0,7
+03-03-2024,Austria Lustenau,Rapid Vienna,1,1
+10-03-2024,Austria Lustenau,FC BW Linz,2,0
+16-03-2024,Austria Lustenau,FC BW Linz,0,0
+29-07-2023,FC BW Linz,Wolfsberger AC,1,2
+06-08-2023,FC BW Linz,Hartberg,3,3
+12-08-2023,FC BW Linz,LASK Linz,0,2
+20-08-2023,FC BW Linz,Rapid Vienna,0,5
+26-08-2023,FC BW Linz,SK Sturm Graz,1,4
+02-09-2023,FC BW Linz,Swarovski Watt,4,2
+16-09-2023,FC BW Linz,SCR Altach,1,1
+23-09-2023,FC BW Linz,FC Salzburg,1,0
+30-09-2023,FC BW Linz,Austria Klagenfurt,0,0
+07-10-2023,FC BW Linz,FK Austria Vienna,0,4
+21-10-2023,FC BW Linz,Austria Lustenau,0,0
+28-10-2023,FC BW Linz,Wolfsberger AC,2,0
+05-11-2023,FC BW Linz,Hartberg,2,3
+12-11-2023,FC BW Linz,LASK Linz,2,0
+26-11-2023,FC BW Linz,Rapid Vienna,0,1
+03-12-2023,FC BW Linz,SK Sturm Graz,1,1
+10-12-2023,FC BW Linz,Swarovski Watt,1,2
+10-02-2024,FC BW Linz,SCR Altach,1,1
+17-02-2024,FC BW Linz,FC Salzburg,1,1
+25-02-2024,FC BW Linz,Austria Klagenfurt,0,2
+03-03-2024,FC BW Linz,FK Austria Vienna,1,2
+10-03-2024,FC BW Linz,Austria Lustenau,0,2
+16-03-2024,FC BW Linz,Austria Lustenau,0,0
+29-07-2023,FC Salzburg,SCR Altach,2,0
+06-08-2023,FC Salzburg,Swarovski Watt,3,0
+13-08-2023,FC Salzburg,FK Austria Vienna,2,0
+20-08-2023,FC Salzburg,Hartberg,5,1
+26-08-2023,FC Salzburg,Wolfsberger AC,2,1
+03-09-2023,FC Salzburg,Rapid Vienna,2,0
+16-09-2023,FC Salzburg,SK Sturm Graz,2,2
+23-09-2023,FC Salzburg,FC BW Linz,0,1
+30-09-2023,FC Salzburg,Austria Lustenau,4,0
+08-10-2023,FC Salzburg,Austria Klagenfurt,2,2
+21-10-2023,FC Salzburg,LASK Linz,0,1
+28-10-2023,FC Salzburg,SCR Altach,3,0
+04-11-2023,FC Salzburg,Swarovski Watt,2,0
+12-11-2023,FC Salzburg,FK Austria Vienna,0,0
+25-11-2023,FC Salzburg,Hartberg,3,2
+03-12-2023,FC Salzburg,Wolfsberger AC,1,0
+09-12-2023,FC Salzburg,Rapid Vienna,1,0
+09-02-2024,FC Salzburg,SK Sturm Graz,1,1
+17-02-2024,FC Salzburg,FC BW Linz,1,1
+24-02-2024,FC Salzburg,Austria Lustenau,7,0
+03-03-2024,FC Salzburg,Austria Klagenfurt,1,0
+09-03-2024,FC Salzburg,LASK Linz,1,0
+17-03-2024,FC Salzburg,Hartberg,5,1
+30-07-2023,FK Austria Vienna,SK Sturm Graz,0,3
+06-08-2023,FK Austria Vienna,Austria Lustenau,2,0
+13-08-2023,FK Austria Vienna,FC Salzburg,0,2
+20-08-2023,FK Austria Vienna,Wolfsberger AC,0,0
+27-08-2023,FK Austria Vienna,LASK Linz,0,2
+03-09-2023,FK Austria Vienna,Austria Klagenfurt,2,2
+17-09-2023,FK Austria Vienna,Hartberg,1,2
+24-09-2023,FK Austria Vienna,SCR Altach,1,2
+01-10-2023,FK Austria Vienna,Rapid Vienna,0,0
+07-10-2023,FK Austria Vienna,FC BW Linz,4,0
+22-10-2023,FK Austria Vienna,Swarovski Watt,2,0
+29-10-2023,FK Austria Vienna,SK Sturm Graz,1,0
+04-11-2023,FK Austria Vienna,Austria Lustenau,1,0
+12-11-2023,FK Austria Vienna,FC Salzburg,0,0
+26-11-2023,FK Austria Vienna,Wolfsberger AC,0,1
+03-12-2023,FK Austria Vienna,LASK Linz,0,0
+09-12-2023,FK Austria Vienna,Austria Klagenfurt,2,2
+10-02-2024,FK Austria Vienna,Hartberg,3,1
+17-02-2024,FK Austria Vienna,SCR Altach,2,1
+25-02-2024,FK Austria Vienna,Rapid Vienna,0,3
+03-03-2024,FK Austria Vienna,FC BW Linz,2,1
+10-03-2024,FK Austria Vienna,Swarovski Watt,2,0
+16-03-2024,FK Austria Vienna,SCR Altach,1,1
+29-07-2023,Hartberg,Austria Lustenau,2,2
+06-08-2023,Hartberg,FC BW Linz,3,3
+13-08-2023,Hartberg,Rapid Vienna,1,0
+20-08-2023,Hartberg,FC Salzburg,1,5
+27-08-2023,Hartberg,Austria Klagenfurt,0,3
+02-09-2023,Hartberg,Wolfsberger AC,3,0
+17-09-2023,Hartberg,FK Austria Vienna,2,1
+24-09-2023,Hartberg,LASK Linz,0,0
+01-10-2023,Hartberg,SCR Altach,0,0
+07-10-2023,Hartberg,Swarovski Watt,3,0
+21-10-2023,Hartberg,SK Sturm Graz,1,2
+29-10-2023,Hartberg,Austria Lustenau,4,0
+05-11-2023,Hartberg,FC BW Linz,3,2
+11-11-2023,Hartberg,Rapid Vienna,1,0
+25-11-2023,Hartberg,FC Salzburg,2,3
+04-12-2023,Hartberg,Austria Klagenfurt,1,1
+10-12-2023,Hartberg,Wolfsberger AC,2,0
+10-02-2024,Hartberg,FK Austria Vienna,1,3
+18-02-2024,Hartberg,LASK Linz,0,0
+24-02-2024,Hartberg,SCR Altach,2,1
+03-03-2024,Hartberg,Swarovski Watt,0,1
+10-03-2024,Hartberg,SK Sturm Graz,1,1
+17-03-2024,Hartberg,FC Salzburg,1,5
+28-07-2023,LASK Linz,Rapid Vienna,1,1
+05-08-2023,LASK Linz,SK Sturm Graz,0,2
+12-08-2023,LASK Linz,FC BW Linz,2,0
+19-08-2023,LASK Linz,Swarovski Watt,1,1
+27-08-2023,LASK Linz,FK Austria Vienna,2,0
+03-09-2023,LASK Linz,Austria Lustenau,2,0
+16-09-2023,LASK Linz,Austria Klagenfurt,3,1
+24-09-2023,LASK Linz,Hartberg,0,0
+30-09-2023,LASK Linz,Wolfsberger AC,1,2
+08-10-2023,LASK Linz,SCR Altach,1,0
+21-10-2023,LASK Linz,FC Salzburg,1,0
+29-10-2023,LASK Linz,Rapid Vienna,3,3
+05-11-2023,LASK Linz,SK Sturm Graz,3,1
+12-11-2023,LASK Linz,FC BW Linz,0,2
+25-11-2023,LASK Linz,Swarovski Watt,1,0
+03-12-2023,LASK Linz,FK Austria Vienna,0,0
+09-12-2023,LASK Linz,Austria Lustenau,3,1
+11-02-2024,LASK Linz,Austria Klagenfurt,2,2
+18-02-2024,LASK Linz,Hartberg,0,0
+24-02-2024,LASK Linz,Wolfsberger AC,0,1
+03-03-2024,LASK Linz,SCR Altach,0,0
+09-03-2024,LASK Linz,FC Salzburg,0,1
+15-03-2024,LASK Linz,Rapid Vienna,0,0
+28-07-2023,Rapid Vienna,LASK Linz,1,1
+05-08-2023,Rapid Vienna,SCR Altach,4,0
+13-08-2023,Rapid Vienna,Hartberg,0,1
+20-08-2023,Rapid Vienna,FC BW Linz,5,0
+27-08-2023,Rapid Vienna,Swarovski Watt,1,1
+03-09-2023,Rapid Vienna,FC Salzburg,0,2
+17-09-2023,Rapid Vienna,Wolfsberger AC,3,3
+24-09-2023,Rapid Vienna,SK Sturm Graz,1,1
+01-10-2023,Rapid Vienna,FK Austria Vienna,0,0
+07-10-2023,Rapid Vienna,Austria Lustenau,5,0
+22-10-2023,Rapid Vienna,Austria Klagenfurt,2,3
+29-10-2023,Rapid Vienna,LASK Linz,3,3
+05-11-2023,Rapid Vienna,SCR Altach,2,0
+11-11-2023,Rapid Vienna,Hartberg,0,1
+26-11-2023,Rapid Vienna,FC BW Linz,1,0
+05-12-2023,Rapid Vienna,Swarovski Watt,2,1
+09-12-2023,Rapid Vienna,FC Salzburg,0,1
+11-02-2024,Rapid Vienna,Wolfsberger AC,2,0
+18-02-2024,Rapid Vienna,SK Sturm Graz,1,1
+25-02-2024,Rapid Vienna,FK Austria Vienna,3,0
+03-03-2024,Rapid Vienna,Austria Lustenau,1,1
+10-03-2024,Rapid Vienna,Austria Klagenfurt,1,1
+15-03-2024,Rapid Vienna,LASK Linz,0,0
+29-07-2023,SCR Altach,FC Salzburg,0,2
+05-08-2023,SCR Altach,Rapid Vienna,0,4
+13-08-2023,SCR Altach,Swarovski Watt,1,0
+19-08-2023,SCR Altach,Austria Klagenfurt,1,1
+26-08-2023,SCR Altach,Austria Lustenau,3,0
+02-09-2023,SCR Altach,SK Sturm Graz,1,2
+16-09-2023,SCR Altach,FC BW Linz,1,1
+24-09-2023,SCR Altach,FK Austria Vienna,2,1
+01-10-2023,SCR Altach,Hartberg,0,0
+08-10-2023,SCR Altach,LASK Linz,0,1
+22-10-2023,SCR Altach,Wolfsberger AC,0,0
+28-10-2023,SCR Altach,FC Salzburg,0,3
+05-11-2023,SCR Altach,Rapid Vienna,0,2
+11-11-2023,SCR Altach,Swarovski Watt,1,5
+26-11-2023,SCR Altach,Austria Klagenfurt,0,1
+05-12-2023,SCR Altach,Austria Lustenau,3,0
+10-12-2023,SCR Altach,SK Sturm Graz,0,1
+10-02-2024,SCR Altach,FC BW Linz,1,1
+17-02-2024,SCR Altach,FK Austria Vienna,1,2
+24-02-2024,SCR Altach,Hartberg,1,2
+03-03-2024,SCR Altach,LASK Linz,0,0
+10-03-2024,SCR Altach,Wolfsberger AC,1,1
+16-03-2024,SCR Altach,FK Austria Vienna,1,1
+30-07-2023,SK Sturm Graz,FK Austria Vienna,3,0
+05-08-2023,SK Sturm Graz,LASK Linz,2,0
+12-08-2023,SK Sturm Graz,Austria Klagenfurt,0,0
+19-08-2023,SK Sturm Graz,Austria Lustenau,1,0
+26-08-2023,SK Sturm Graz,FC BW Linz,4,1
+02-09-2023,SK Sturm Graz,SCR Altach,2,1
+16-09-2023,SK Sturm Graz,FC Salzburg,2,2
+24-09-2023,SK Sturm Graz,Rapid Vienna,1,1
+01-10-2023,SK Sturm Graz,Swarovski Watt,1,0
+08-10-2023,SK Sturm Graz,Wolfsberger AC,2,1
+21-10-2023,SK Sturm Graz,Hartberg,2,1
+29-10-2023,SK Sturm Graz,FK Austria Vienna,0,1
+05-11-2023,SK Sturm Graz,LASK Linz,1,3
+12-11-2023,SK Sturm Graz,Austria Klagenfurt,3,0
+25-11-2023,SK Sturm Graz,Austria Lustenau,2,0
+03-12-2023,SK Sturm Graz,FC BW Linz,1,1
+10-12-2023,SK Sturm Graz,SCR Altach,1,0
+09-02-2024,SK Sturm Graz,FC Salzburg,1,1
+18-02-2024,SK Sturm Graz,Rapid Vienna,1,1
+25-02-2024,SK Sturm Graz,Swarovski Watt,2,0
+03-03-2024,SK Sturm Graz,Wolfsberger AC,4,0
+10-03-2024,SK Sturm Graz,Hartberg,1,1
+17-03-2024,SK Sturm Graz,Austria Klagenfurt,4,0
+29-07-2023,Swarovski Watt,Austria Klagenfurt,1,3
+06-08-2023,Swarovski Watt,FC Salzburg,0,3
+13-08-2023,Swarovski Watt,SCR Altach,0,1
+19-08-2023,Swarovski Watt,LASK Linz,1,1
+27-08-2023,Swarovski Watt,Rapid Vienna,1,1
+02-09-2023,Swarovski Watt,FC BW Linz,2,4
+17-09-2023,Swarovski Watt,Austria Lustenau,3,2
+23-09-2023,Swarovski Watt,Wolfsberger AC,2,3
+01-10-2023,Swarovski Watt,SK Sturm Graz,0,1
+07-10-2023,Swarovski Watt,Hartberg,0,3
+22-10-2023,Swarovski Watt,FK Austria Vienna,0,2
+28-10-2023,Swarovski Watt,Austria Klagenfurt,0,1
+04-11-2023,Swarovski Watt,FC Salzburg,0,2
+11-11-2023,Swarovski Watt,SCR Altach,5,1
+25-11-2023,Swarovski Watt,LASK Linz,0,1
+05-12-2023,Swarovski Watt,Rapid Vienna,1,2
+10-12-2023,Swarovski Watt,FC BW Linz,2,1
+11-02-2024,Swarovski Watt,Austria Lustenau,0,2
+17-02-2024,Swarovski Watt,Wolfsberger AC,1,4
+25-02-2024,Swarovski Watt,SK Sturm Graz,0,2
+03-03-2024,Swarovski Watt,Hartberg,1,0
+10-03-2024,Swarovski Watt,FK Austria Vienna,0,2
+16-03-2024,Swarovski Watt,Wolfsberger AC,1,1
+29-07-2023,Wolfsberger AC,FC BW Linz,2,1
+09-08-2023,Wolfsberger AC,Austria Klagenfurt,2,2
+12-08-2023,Wolfsberger AC,Austria Lustenau,1,1
+20-08-2023,Wolfsberger AC,FK Austria Vienna,0,0
+26-08-2023,Wolfsberger AC,FC Salzburg,1,2
+02-09-2023,Wolfsberger AC,Hartberg,0,3
+17-09-2023,Wolfsberger AC,Rapid Vienna,3,3
+23-09-2023,Wolfsberger AC,Swarovski Watt,3,2
+30-09-2023,Wolfsberger AC,LASK Linz,2,1
+08-10-2023,Wolfsberger AC,SK Sturm Graz,1,2
+22-10-2023,Wolfsberger AC,SCR Altach,0,0
+28-10-2023,Wolfsberger AC,FC BW Linz,0,2
+04-11-2023,Wolfsberger AC,Austria Klagenfurt,4,0
+11-11-2023,Wolfsberger AC,Austria Lustenau,3,2
+26-11-2023,Wolfsberger AC,FK Austria Vienna,1,0
+03-12-2023,Wolfsberger AC,FC Salzburg,0,1
+10-12-2023,Wolfsberger AC,Hartberg,0,2
+11-02-2024,Wolfsberger AC,Rapid Vienna,0,2
+17-02-2024,Wolfsberger AC,Swarovski Watt,4,1
+24-02-2024,Wolfsberger AC,LASK Linz,1,0
+03-03-2024,Wolfsberger AC,SK Sturm Graz,0,4
+10-03-2024,Wolfsberger AC,SCR Altach,1,1
+16-03-2024,Wolfsberger AC,Swarovski Watt,1,1
